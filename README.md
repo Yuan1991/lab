@@ -6,3 +6,12 @@
 ### by fanyiwei
 - Orz 樊神
 - Orz 秦神
+
+```C
+#include <stdio.h>
+int main()
+{
+  printf("我也会写Markdown了\nby Yuan1991\n");
+  return 0;
+}
+```
